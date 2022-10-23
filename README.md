@@ -1,4 +1,6 @@
 # YamaD
 
-![YamaD's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamader)
+こんにちは。
+山Dです。
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamader&langs_count=8)
